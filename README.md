@@ -1,2 +1,2 @@
 # 2D-Snake-Game
-Implemented using PyGame
+Implemented on Python 3.x using PyGame library
