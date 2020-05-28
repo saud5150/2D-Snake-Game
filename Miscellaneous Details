@@ -1,0 +1,15 @@
+Introduction to Project Domain:
+In this project, a full force attempt will be made to create a game using the high-level programming language Python, with an emphasis on using the Pygame module which can be separately installed through the “Python Installs Packages” package management system. 
+In this game, there will be two snakes, one of which will be hunting down food to eat. 
+The user will play as a snake, which must avoid obstacles in its path while eating food to grow bigger. 
+The longer the snake, the greater the high score the user can obtain. The user will be provided with three lives at the start of the game. 
+If the user-controlled snake crashes into another snake which is roaming around, or any other boundary, the user will lose a life. 
+When three lives have been lost, the game is over.
+Existing Similar Work:
+A plethora of variations regarding the clichéd Snake game are available online, although this project will be engineered from pure scratch in order to savor the learning experience, and avoid plagiarism.
+Features Which are Planned for Implementation:
+We have planned quite a few features for implementation. When the snake will eat food, and when it bumps into a boundary, a sound will be produced. Similarly, there will also be background music in the game, to create the perfect arcade-style game experience.
+On another note, bringing the graphics onto the GUI, and continuously updating them will also be a fundamental feature of the game, which is the main part for the implementation.
+From the user’s point of view, different keys on the keyboard will be assigned different functions, to perform different actions in the game. Mouse clicks will also be a staple feature for the input part of the game.
+As the foundation of the game is solidified, greater attempts will be made to improve the aesthetics of the game, such as saving high scores, changing the look of the snake, and introducing different levels of difficulty amongst which the user may choose from in the start menu.
+
